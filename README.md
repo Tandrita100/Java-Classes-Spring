@@ -13,3 +13,5 @@ Original repository credit goes to the original author.
 This repository may contain:
 - Practice code
 - Personal learning experiments
+- Small Modifications
+- Notes
